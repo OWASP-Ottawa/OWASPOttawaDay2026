@@ -45,7 +45,7 @@ and the current state of the OWASP projects.
 - **Registration:** a separate ticket from the OSINT workshop
 - **Room:** STM 117
 - **Start:** 9:30 AM, following the 9:00 AM keynote
-- **Speakers and schedule:** TBA — the call for presentations and the final agenda will be posted here
+- **Speakers and schedule:** TBA
 
 ## OSINT Workshop
 
