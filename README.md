@@ -44,7 +44,7 @@ and the current state of the OWASP projects.
 - **Cost:** free — registration required
 - **Registration:** a separate ticket from the OSINT workshop
 - **Room:** STM 117
-- **Start:** 9:30 AM, following the 9:00 AM keynote
+- **Start:** 8:45 AM, following the 9:00 AM keynote
 - **Speakers and schedule:** TBA
 
 ## OSINT Workshop
