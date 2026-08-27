@@ -66,7 +66,8 @@ Mentoring sessions connect attendees with experienced security practitioners for
 resume and portfolio feedback, and advice on breaking into or growing within application security.
 
 ```
-Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students and the community?
+Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students
+and the community?
 
 Sign up at https://forms.cloud.microsoft/r/GaJ56qGZxA
 ```
