@@ -68,11 +68,10 @@ resume and portfolio feedback, and advice on breaking into or growing within app
 ```
 Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students
 and the community?
-
-Sign up at https://forms.cloud.microsoft/r/GaJ56qGZxA
 ```
+[Mentor signup form](https://forms.cloud.microsoft/r/GaJ56qGZxA)
 
-- Open to students, career changers, and early-career practitioners
+- Those seeking a session with mentor is open to students, career changers, and early-career practitioners
 - **Room:** STM 464
 - Format, sign-up process, and mentor list: TBA
 
@@ -81,12 +80,8 @@ Sign up at https://forms.cloud.microsoft/r/GaJ56qGZxA
 
 We are looking for volunteers to help with all aspects of making this a successful and educational event for the community.
 If you wish to give back to your community we would love your help. 
+[Volunteer Sign Up Form](https://forms.gle/JqiA1Ak6fPrXNsHq6)
 
-```
-Sign up form at:
-
-https://forms.gle/JqiA1Ak6fPrXNsHq6
-```
 ---
 
 ## Schedule
