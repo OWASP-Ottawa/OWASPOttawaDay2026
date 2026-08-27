@@ -65,10 +65,27 @@ practical exercises rather than sitting through slides.
 Mentoring sessions connect attendees with experienced security practitioners for career guidance,
 resume and portfolio feedback, and advice on breaking into or growing within application security.
 
+```
+Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students and the community?
+
+Sign up at https://forms.cloud.microsoft/r/GaJ56qGZxA
+```
+
 - Open to students, career changers, and early-career practitioners
 - **Room:** STM 464
 - Format, sign-up process, and mentor list: TBA
 
+
+## Volunteering
+
+We are looking for volunteers to help with all aspects of making this a successful and educational event for the community.
+If you wish to give back to your community we would love your help. 
+
+```
+Sign up form at:
+
+https://forms.gle/JqiA1Ak6fPrXNsHq6
+```
 ---
 
 ## Schedule
