@@ -1,6 +1,6 @@
 # OWASP Ottawa Day 2026
 
-![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.png)
+![OWASP Ottawa Day 2026 — Presentations, Workshops, and Mentorship](assets/images/OWASPOttawaDay2026.jpg)
 
 **Presentations, Workshops, and Mentorship**
 
@@ -28,10 +28,14 @@ workshop**. The two are ticketed separately — one ticket does not cover the ot
 only the session you plan to attend. Ticketing links are not yet available; this page will be updated as
 soon as they are published.
 
+**Speakers Track Ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
+
+**OSINT Workshop Ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
+
 | What | Cost | Registration | Link |
 |---|---|---|---|
-| Speaker Track | Free | Required — its own ticket | **TBA** |
-| OSINT Workshop | Free | Required — a separate ticket | **TBA** |
+| Speaker Track | Free | Required — its own ticket | **[Speakers Track Ticketing](https://www.tickettailor.com/events/owaspottawachapter/2389944)** |
+| OSINT Workshop | Free | Required — a separate ticket | **[OSINT Workshop Ticketing](https://app.tickettailor.com/events/owaspottawachapter/2389995)** |
 | Mentoring | Free | No separate ticket — details TBA | — |
 
 ---
@@ -47,6 +51,8 @@ and the current state of the OWASP projects.
 - **Start:** 8:45 AM, following the 9:00 AM keynote
 - **Speakers and schedule:** TBA
 
+**Speakers track ticketing: [https://www.tickettailor.com/events/owaspottawachapter/2389944](https://www.tickettailor.com/events/owaspottawachapter/2389944)**
+
 ## OSINT Workshop
 
 A hands-on, instructor-led workshop on Open Source Intelligence techniques. Attendees work through
@@ -59,6 +65,8 @@ practical exercises rather than sitting through slides.
 - **Seating:** limited; register early
 - **Bring:** a laptop (setup details and any pre-requisites will be posted before the event)
 - **Details:** TBA
+
+**OSINT Workshop ticketing: [https://app.tickettailor.com/events/owaspottawachapter/2389995](https://app.tickettailor.com/events/owaspottawachapter/2389995)**
 
 ## Mentoring
 
