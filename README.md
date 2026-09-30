@@ -71,15 +71,21 @@ practical exercises rather than sitting through slides.
 Mentoring sessions connect attendees with experienced security practitioners for career guidance,
 resume and portfolio feedback, and advice on breaking into or growing within application security.
 
-```
-Are you an experienced Security Professional in Ottawa and wish to share your wisdom with students
-and the community?
-```
-[Mentor signup form](https://forms.cloud.microsoft/r/GaJ56qGZxA)
+**Sign up for a session: [https://www.uottawa.ca/faculty-engineering/events-all/cybersecurity-mentoring-sessions](https://www.uottawa.ca/faculty-engineering/events-all/cybersecurity-mentoring-sessions)**
+
 
 - Those seeking a session with mentor is open to students, career changers, and early-career practitioners
 - **Room:** STM 464
 
+## More Mentoringn with Tech2Step
+​Join cybersecurity professionals from across Ottawa’s ecosystem for an informal 45–60 minute walk exploring career paths, emerging skills, communities, and what’s next in cybersecurity.
+This session occurs between 5pm and 6pm after the speakers track has completed.
+
+📍 Starts at uOttawa - STEM 117
+🕔 October 17 | 5:00–6:00 PM
+🍻 Finishes at The Nelson on Laurier Avenue East for the evening social.
+
+**Registration Page: [https://luma.com/g7j2yqhq](https://luma.com/g7j2yqhq)**
 
 ## Volunteering
 
