@@ -77,7 +77,7 @@ resume and portfolio feedback, and advice on breaking into or growing within app
 - Those seeking a session with mentor is open to students, career changers, and early-career practitioners
 - **Room:** STM 464
 
-## More Mentoringn with Tech2Step
+## More Mentoring with Tech2Step
 ​Join cybersecurity professionals from across Ottawa’s ecosystem for an informal 45–60 minute walk exploring career paths, emerging skills, communities, and what’s next in cybersecurity.
 This session occurs between 5pm and 6pm after the speakers track has completed.
 
